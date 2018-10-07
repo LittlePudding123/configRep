@@ -8,7 +8,7 @@ eureka:
 
 management:
   security:
-    enabled: true
+    enabled: false
 
 
 
