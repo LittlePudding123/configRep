@@ -2,4 +2,4 @@
 server:
   port: 8762
 
-foo: foo version 8762
+foo: 你好，我是从GitHub上配置来的
